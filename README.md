@@ -1,11 +1,11 @@
-About r-gap.datasets
-====================
+About r-gap.datasets-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gap.datasets-feedstock/blob/main/LICENSE.txt)
 
 Home: https://jinghuazhao.github.io/R/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gap.datasets-feedstock/blob/main/LICENSE.txt)
 
 Summary: Datasets associated with the 'gap' package. Currently, it includes an example data for regional association plot (CDKN), an example data for a genomewide association meta-analysis (OPG), data in studies of Parkinson's diease (PD), ALHD2 markers and alcoholism (aldh2), APOE/APOC1 markers and Schizophrenia (apoeapoc), cystic fibrosis (cf), a Olink/INF panel (inf1), Manhattan plots with (hr1420, mhtdata) and without (w4) gene annotations.
 
